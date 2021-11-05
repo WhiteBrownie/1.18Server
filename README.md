@@ -44,6 +44,7 @@
 * [Not enough animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) (animations)
   *  [Transliterationlib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib) (compatability layer for NOA)
 * [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (doors, trapdoors, etc. get coupled and can be opened by one click)
+* [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
 ***
 # Up for discussion:
 * [Multiworld fabric](https://www.curseforge.com/minecraft/mc-mods/multiworld-fabric) (create and teleport between multiple worlds, might be useful for a farmworld or something similar)
