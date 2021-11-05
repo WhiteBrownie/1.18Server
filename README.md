@@ -67,3 +67,5 @@
 	* Chunk Loaders
 	* [Link to VanillaTweaks with everything already implemented plus everything above](https://vanillatweaks.net/share#AT7Z00)
 	* possibly more?
+* [Biome Locator](https://www.curseforge.com/minecraft/mc-mods/biome-locator) (compass for locating biomes)
+	* [FlytreLib](https://www.curseforge.com/minecraft/mc-mods/lib) (dependency for Biome locator)
