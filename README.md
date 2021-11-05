@@ -5,9 +5,9 @@
 * [A number of optimization mods from this comprehensive list](https://gist.github.com/Obydux/55b967f5dcc00633fe895e5a473363d5)
 * [Servercore](https://modrinth.com/mod/servercore)
 ### Voice Chat
-[Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
+* [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 ### Discord Chat integration (Discord Chat integration is up for discussion in general)
-[DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric)
+* [DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric)
 ### QOL
 * [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) (optimizations and stuff)
 * [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
@@ -46,9 +46,10 @@
 * [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (doors, trapdoors, etc. get coupled and can be opened by one click)
 ***
 # Up for discussion:
-* [Right click harvest](https://modrinth.com/mod/rch)
-* [Fluid physics](https://www.curseforge.com/minecraft/mc-mods/fluid-physics)
-* [Repurposed structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
+* [Multiworld fabric](https://www.curseforge.com/minecraft/mc-mods/multiworld-fabric) (create and teleport between multiple worlds, might be useful for a farmworld or something similar)
+* [Right click harvest](https://modrinth.com/mod/rch) (does what it says)
+* [Fluid physics](https://www.curseforge.com/minecraft/mc-mods/fluid-physics) (does what it says, you can build actual pumps with pistons and stuff)
+* [Repurposed structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (does what it says)
 * any **one** of these:
 	* [Leukocyte](https://github.com/NucleoidMC/leukocyte) (world/land protection mod based on roles)
 	  * [Player roles](https://github.com/NucleoidMC/player-roles) (dependency for leukocyte)
