@@ -5,9 +5,9 @@
 * [A number of optimization mods from this comprehensive list](https://gist.github.com/Obydux/55b967f5dcc00633fe895e5a473363d5)
 * [Servercore](https://modrinth.com/mod/servercore)
 ### Voice Chat
-[Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
+* [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 ### Discord Chat integration (Discord Chat integration is up for discussion in general)
-[DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric)
+* [DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric)
 ### QOL
 * [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) (optimizations and stuff)
 * [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
