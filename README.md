@@ -9,9 +9,9 @@
 ### Discord Chat integration (Discord Chat integration is up for discussion in general)
 [DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric)
 ### QOL
-* [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)(optimizations and stuff)
-* [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin)(advanced food information)
-* [Vanilla Tweaks](https://vanillatweaks.net/share#QfUrG1)
+* [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) (optimizations and stuff)
+* [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
+* Vanilla Tweaks
   * timber
   * villager death messages
   * silence mobs
@@ -25,7 +25,7 @@
   * fast leaf decay
   * afk display
   * unlock all recipes 
-  * https://vanillatweaks.net/share#AT7Z00
+  * [Link to everything above](https://vanillatweaks.net/share#AT7Z00)
 * [Baila](https://github.com/TheEpicBlock/baila) ('What Am I Looking AT' UI)
 * *%UP FOR DISCUSSION* [Suitably stackable stews](https://www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew) (does what it says)
 * *%UP FOR DISCUSSION* [Monsters in the closet](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet) (see monsters that keep you your hard earned sleep)
