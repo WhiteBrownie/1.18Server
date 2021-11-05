@@ -60,7 +60,9 @@
 * [Conditional keep inventory](https://www.curseforge.com/minecraft/mc-mods/conditional-keep-inventory) (keep inventory only when dying in lava or by suffocating,...)
 * [Egg of capitalism](https://modrinth.com/mod/egg-of-capitalism) (every player that helped to kill the Ender Dragon for the first time gets an egg)
 * [Easy painter](https://github.com/aws404/easy-painter) (improved paintings)
-* [Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas) (craftable map with nice artstyle)
+* Either one or both:
+	* [Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas) (craftable map with nice artstyle)
+	* [Xaeros minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)  (does what it says)
 * Vanilla Tweks additions:
 	* possible to add: 
 	* Anti Mob Grief
@@ -71,4 +73,4 @@
 * Either **one**:
 	* [Biome Locator](https://www.curseforge.com/minecraft/mc-mods/biome-locator) (compass for locating biomes)
 		* [FlytreLib](https://www.curseforge.com/minecraft/mc-mods/lib) (dependency for Biome locator)
-	* [Natures compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) 
+	* [Natures compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)  (does what it says)
