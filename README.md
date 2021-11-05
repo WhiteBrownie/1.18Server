@@ -31,7 +31,7 @@
 * *%UP FOR DISCUSSION* [Monsters in the closet](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet) (see monsters that keep you your hard earned sleep)
 * *%UP FOR DISCUSSION* [Inventory sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting) (does what it says)
 * *%UP FOR DISCUSSION* [Better signs and frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames) (does what it says)
-* *%NOT WORKING*, won't be implemented [Playtime tracker](https://github.com/SpaceClouds42/PlaytimeTracker)(does what it says)
+* *%NOT WORKING*, won't be implemented [Playtime tracker](https://github.com/SpaceClouds42/PlaytimeTracker) (does what it says)
 * *%NOT WORKING*, won't be implemented [Fabric Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) (needed for PlaytimeTracker)
 ***
 ## Client side implemented:
