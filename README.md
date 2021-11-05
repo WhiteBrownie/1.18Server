@@ -37,6 +37,7 @@
 ## Client side implemented:
 * Fabric
 * Fabric API
+* [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) (dependency)
 * [Modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (mod menu)
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) (dynamic light)
