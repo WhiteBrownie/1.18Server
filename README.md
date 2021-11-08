@@ -8,6 +8,8 @@
 * [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 ### Discord Chat integration (Discord Chat integration is up for discussion in general)
 * [DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric)
+### Visual
+* [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 ### QOL
 * [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) (optimizations and stuff)
 * [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
@@ -38,7 +40,7 @@
 * Fabric
 * Fabric API
 * [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) (dependency)
-* [Modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (mod menu)
+* [Modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (mod menu, access settings for various installed mods)
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) (dynamic light)
 * [Irisshaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) (shader and performance
@@ -46,6 +48,11 @@
   *  [Transliterationlib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib) (compatability layer for NOA)
 * [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (doors, trapdoors, etc. get coupled and can be opened by one click)
 * [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
+* [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) (show player skin heads shown in chat)
+  * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) (dependency for Chat Heads)
+* [Nearly Sighted](https://www.curseforge.com/minecraft/mc-mods/near-sightedly) (match view distance of PC configuration to server)
+* [Eating animation fabric](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric) (more/better eating animations)
+* *NOT CONFIRMED WORKING YET* [skins layers 3d](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (3D skins)
 ***
 # Up for discussion:
 * [Multiworld fabric](https://www.curseforge.com/minecraft/mc-mods/multiworld-fabric) (create and teleport between multiple worlds, might be useful for a farmworld or something similar)
@@ -61,6 +68,9 @@
 * [Conditional keep inventory](https://www.curseforge.com/minecraft/mc-mods/conditional-keep-inventory) (keep inventory only when dying in lava or by suffocating,...)
 * [Egg of capitalism](https://modrinth.com/mod/egg-of-capitalism) (every player that helped to kill the Ender Dragon for the first time gets an egg)
 * [Easy painter](https://github.com/aws404/easy-painter) (improved paintings)
+* [Horse Stonks](https://www.curseforge.com/minecraft/mc-mods/horse-stonks) (prevents animals from getting worse stats than their parents when breeding)
+* [Interdimensional map markers](https://www.curseforge.com/minecraft/mc-mods/interdimensional-map-markers) (make your overworld position on vanilla minecraft maps visible even when in other dimensions)
+* [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, ...)
 * Either one or both:
 	* [Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas) (craftable map with nice artstyle)
 	* [Xaeros minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)  (does what it says)
