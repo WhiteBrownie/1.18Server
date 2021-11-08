@@ -52,6 +52,7 @@
   * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) (dependency for Chat Heads)
 * [Nearly Sighted](https://www.curseforge.com/minecraft/mc-mods/near-sightedly) (match view distance of PC configuration to server)
 * [Eating animation fabric](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric) (more/better eating animations)
+* [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 * *NOT CONFIRMED WORKING YET* [skins layers 3d](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (3D skins)
 ***
 # Up for discussion:
