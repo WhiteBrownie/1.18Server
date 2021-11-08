@@ -14,20 +14,20 @@
 * [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) (optimizations and stuff)
 * [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
 * Vanilla Tweaks
-  * timber
-  * villager death messages
-  * silence mobs
-  * redstone rotation wrench
-  * player head drops
-  * durability ping
-  * track raw statistics
-  * track statistics
-  * graves
-  * multiplayer sleep
-  * fast leaf decay
-  * afk display
-  * unlock all recipes 
-  * [Link to everything above](https://vanillatweaks.net/share#AT7Z00)
+	* timber
+	* villager death messages
+	* silence mobs
+	* redstone rotation wrench
+	* player head drops
+	* durability ping
+	* track raw statistics
+	* track statistics
+	* graves
+	* multiplayer sleep
+	* fast leaf decay
+	* afk display
+	* unlock all recipes 
+	* [Link to everything above](https://vanillatweaks.net/share#AT7Z00)
 * [Baila](https://github.com/TheEpicBlock/baila) ('What Am I Looking AT' UI)
 * *%UP FOR DISCUSSION* [Suitably stackable stews](https://www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew) (does what it says)
 * *%UP FOR DISCUSSION* [Monsters in the closet](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet) (see monsters that keep you your hard earned sleep)
@@ -56,10 +56,12 @@
 ***
 # Up for discussion:
 * [Multiworld fabric](https://www.curseforge.com/minecraft/mc-mods/multiworld-fabric) (create and teleport between multiple worlds, might be useful for a farmworld or something similar)
-* [Right click harvest](https://modrinth.com/mod/rch) (does what it says)
+* Either **one**:
+	* [Right click harvest](https://modrinth.com/mod/rch) (does what it says)
+	* [Replanting crops fabric](https://www.curseforge.com/minecraft/mc-mods/replanting-crops-fabric) (does what it says)
 * [Fluid physics](https://www.curseforge.com/minecraft/mc-mods/fluid-physics) (does what it says, you can build actual pumps with pistons and stuff)
 * [Repurposed structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (does what it says)
-* any **one** of these:
+* Any **one** of these:
 	* [Leukocyte](https://github.com/NucleoidMC/leukocyte) (world/land protection mod based on roles)
 	  * [Player roles](https://github.com/NucleoidMC/player-roles) (dependency for leukocyte)
 	* [Flan](https://github.com/Flemmli97/Flan) (land clamining mod, subclaims are possible)
