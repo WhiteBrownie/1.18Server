@@ -3,7 +3,7 @@
 ---
 # To get up and running clientside
 1. Go ahead and download [MultiMC](https://multimc.org/)
-2. Extract and install MultiMC
+2. Extract MultiMC into a location of your choosing, it will stay there, no installation required
 3. Download the MultiMC instance you want/need from [here](https://1drv.ms/u/s!AnRpVm46qqDNjdUy9MNKb798AQLBOg?e=OeDgn7)
 4. Extract the .7z file so that you are left with a .zip file (use the provided password)
 5. Open up MultiMC (locate the MultiMC.exe inside of the MultiMC folder you extraced and double click it; you can add this to your Windows Start Menu by right clicking on it) and click on `Add Instance` in the top left corner
