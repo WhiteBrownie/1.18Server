@@ -1,5 +1,7 @@
 # 1.18Server 
-[Server Backups](https://1drv.ms/u/s!AnRpVm46qqDNjdUxbNgz45vrc8yFAg?e=peDNs2)
+* [Server Backups](https://1drv.ms/u/s!AnRpVm46qqDNjdUxbNgz45vrc8yFAg?e=peDNs2)
+* [Player installation guide](WhiteBrownie/1.18Server/blob/main/Clientside.MD)
+* [Mod List]()
 ---
 # To get up and running clientside
 1. Go ahead and download [MultiMC](https://multimc.org/)
