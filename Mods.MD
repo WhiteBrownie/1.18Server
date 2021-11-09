@@ -54,7 +54,8 @@
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 * *NOT CONFIRMED WORKING YET* [skins layers 3d](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (3D skins)
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (Connected textures fix)
-* [Enhanced block entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) (performance optimization for chests, beds, etc.)
+* [Enhanced block entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) (Performance optimization for chests, beds, etc.)
+* [FPS reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (lowers FPS and sound when Minecraft is minimized or you're afk)
 ---
 # Up for discussion:
 * [Multiworld fabric](https://www.curseforge.com/minecraft/mc-mods/multiworld-fabric) (create and teleport between multiple worlds, might be useful for a farmworld or something similar)
