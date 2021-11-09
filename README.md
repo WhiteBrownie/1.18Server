@@ -1,4 +1,17 @@
 # 1.18Server 
+# To get up and running clientside
+1. Go ahead and download [MultiMC](https://multimc.org/)
+2. Extract and install MultiMC
+3. Download the MultiMC instance you want/need from [here](https://1drv.ms/u/s!AnRpVm46qqDNjdUy9MNKb798AQLBOg?e=OeDgn7)
+4. Extract the .7z file so that you are left with a .zip file (use the provided password)
+5. Open up MultiMC and click on `Add Instance` in the top left corner
+6. Click `Import from zip`. Use the .zip file you extracted in step 4. (if you don't provide a name yourself it will be set automatically)
+7. In MultiMC on the top right corner click on `Profiles` and then on `Manage Accounts`
+	7.1. In the new `Settings` window that opened, add you Minecraft Account via Microsoft or Mojang (see the right side)
+	7.2. Click on the Account you just added and press `Set Default` on the right side
+	7.3. You can close the Settings window
+8. You're good to go, just double click on the instance in MultiMC to start up Minecraft
+***
 # Current state (1.17.1)
 ## Server side implemented:
 ### Optimization:
@@ -35,7 +48,7 @@
 * *%UP FOR DISCUSSION* [Better signs and frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames) (does what it says)
 * *%NOT WORKING*, won't be implemented [Playtime tracker](https://github.com/SpaceClouds42/PlaytimeTracker) (does what it says)
 * *%NOT WORKING*, won't be implemented [Fabric Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) (needed for PlaytimeTracker)
-***
+---
 ## Client side implemented:
 * Fabric
 * Fabric API
@@ -54,7 +67,7 @@
 * [Eating animation fabric](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric) (more/better eating animations)
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 * *NOT CONFIRMED WORKING YET* [skins layers 3d](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (3D skins)
-***
+---
 # Up for discussion:
 * [Multiworld fabric](https://www.curseforge.com/minecraft/mc-mods/multiworld-fabric) (create and teleport between multiple worlds, might be useful for a farmworld or something similar)
 * Either **one**:
@@ -88,3 +101,5 @@
 	* [Biome Locator](https://www.curseforge.com/minecraft/mc-mods/biome-locator) (compass for locating biomes)
 		* [FlytreLib](https://www.curseforge.com/minecraft/mc-mods/lib) (dependency for Biome locator)
 	* [Natures compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)  (does what it says)
+***
+[Server Backups](https://1drv.ms/u/s!AnRpVm46qqDNjdUxbNgz45vrc8yFAg?e=peDNs2)
