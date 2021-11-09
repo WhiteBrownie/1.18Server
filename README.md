@@ -3,3 +3,4 @@
 * [Player installation guide](Clientside.MD)
 * [Mod List](Mods.MD)
 * [Server Backups](https://1drv.ms/u/s!AnRpVm46qqDNjdUxbNgz45vrc8yFAg?e=peDNs2)
+* [Significant coordinates](cords.MD)
