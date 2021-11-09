@@ -1,4 +1,6 @@
 # 1.18Server 
+[Server Backups](https://1drv.ms/u/s!AnRpVm46qqDNjdUxbNgz45vrc8yFAg?e=peDNs2)
+---
 # To get up and running clientside
 1. Go ahead and download [MultiMC](https://multimc.org/)
 2. Extract and install MultiMC
@@ -11,7 +13,7 @@
 	7.2. Click on the Account you just added and press `Set Default` on the right side
 	7.3. You can close the Settings window
 8. You're good to go, just double click on the instance in MultiMC to start up Minecraft
-***
+---
 # Current state (1.17.1)
 ## Server side implemented:
 ### Optimization:
@@ -101,5 +103,5 @@
 	* [Biome Locator](https://www.curseforge.com/minecraft/mc-mods/biome-locator) (compass for locating biomes)
 		* [FlytreLib](https://www.curseforge.com/minecraft/mc-mods/lib) (dependency for Biome locator)
 	* [Natures compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)  (does what it says)
-***
-[Server Backups](https://1drv.ms/u/s!AnRpVm46qqDNjdUxbNgz45vrc8yFAg?e=peDNs2)
+---
+
