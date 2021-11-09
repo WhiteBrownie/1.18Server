@@ -10,5 +10,5 @@
 9. You can close the Settings window
 10. In MultiMC click on `Add Instance` in the top left corner ![](https://i.imgur.com/wYS9ZtP.png)
 11. Click `Import from zip`. Use the .zip file you extracted in step 4. (if you don't provide a name yourself it will be set automatically)![](https://i.imgur.com/vZC9dVd.png)
-12. 9. Your MultiMC should look something like this if you followed all the steps correctly ![](https://i.imgur.com/0G5s1q7.png)
+12. Your MultiMC should look something like this if you followed all the steps correctly ![](https://i.imgur.com/0G5s1q7.png)
 13. You're good to go, just double click on the instance in MultiMC to start up Minecraft
