@@ -44,11 +44,18 @@
 * [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 * [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) (show all items and recepies in inventory screen)
-### GUI and HUD
+* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (minimap)
+* [Xearo's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (worldmap)
+### GUI, HUD and interactions
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) (better GUI with custom options)
 * [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) (better Advancement Info GUI)
 * [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) (improved HUD when riding any mount)
 * [Don't Clear Chat History](https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history) (doesn't clear chat history when leaving a server)
+* [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history) (show 16k chat lines instead of 100)
+* [LittleTweaks](https://github.com/ImUrX/littletweaks) (advanced audio settings)
+* [Mouse Wheelie (Fabric)](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) (mouse wheel actions)
+* [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) (fixes large tooltips running off screen)
+* [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) (adds zoom ability)
 ### Performance
 * [Irisshaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) (shader and performance
 * [Nearly Sighted](https://www.curseforge.com/minecraft/mc-mods/near-sightedly) (match view distance of PC configuration to server)
@@ -60,7 +67,14 @@
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) (reduce memory usage)
 * [Hydrogen Fabric](https://github.com/CaffeineMC/hydrogen-fabric) (reduce memory usage)
 * [Sodium Fabric](https://github.com/CaffeineMC/sodium-fabric) (optimization)
+* [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) (makes sodium pages scrollable)
 * [Indium](https://modrinth.com/mod/indium) (sodium addon for rendering optimization)
+* [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) (initilization optimization)
+* [No Potion Offset (Fabric)](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset) (removes potion inventory offset)
+* [Not Enough Crashes (Fabric)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) (improves crashes:) )
+* [Smooth Boot (Fabrich](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) (optimize loading performance)
+* [Your Options Sall Be Respected(YOSBR)](https://www.curseforge.com/minecraft/mc-mods/yosbr) (does what it says)
+* 
 ### Textures, animations, skins, ...
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) (dynamic light)
 * [Eating animation fabric](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric) (more/better eating animations)
@@ -71,9 +85,12 @@
 * [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) (MCPachter/Optifine animated textures in fabric)
 * [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) (Optifine Capes in fabric)
 * [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) (MCPatcher/Optifine Custom Item Textures in fabric)
+* [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) (Optifine eye candy options for sodium)
+* [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) (Optifine better grass and snow)
 * [Colormatic](https://github.com/kvverti/colormatic) (MCPatcher custom colors in fabric)
 * [Custom Entity Models (CEM)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) (Optifines custom entity models in fabric)
 * [Item Model Fix (Fabric)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) (fix transparent lines in item models)
+* [NoFade](https://www.curseforge.com/minecraft/mc-mods/no-fade) (gets rid of the annoying Mojag Studios loading screen)
 ### Dependencies
 * [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
