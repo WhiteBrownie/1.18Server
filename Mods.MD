@@ -71,7 +71,7 @@
 * [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) (MCPachter/Optifine animated textures in fabric)
 * [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) (Optifine Capes in fabric)
 * [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) (MCPatcher/Optifine Custom Item Textures in fabric)
-* *PROBLEMATIC RIGHT NOW* [Colormatic](https://github.com/kvverti/colormatic) (MCPatcher custom colors in fabric)
+* [Colormatic](https://github.com/kvverti/colormatic) (MCPatcher custom colors in fabric)
 * [Custom Entity Models (CEM)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) (Optifines custom entity models in fabric)
 * [Item Model Fix (Fabric)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) (fix transparent lines in item models)
 ### Dependencies
