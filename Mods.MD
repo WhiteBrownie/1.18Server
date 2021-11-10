@@ -74,7 +74,6 @@
 * [Not Enough Crashes (Fabric)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) (improves crashes:) )
 * [Smooth Boot (Fabrich](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) (optimize loading performance)
 * [Your Options Sall Be Respected(YOSBR)](https://www.curseforge.com/minecraft/mc-mods/yosbr) (does what it says)
-* 
 ### Textures, animations, skins, ...
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) (dynamic light)
 * [Eating animation fabric](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric) (more/better eating animations)
