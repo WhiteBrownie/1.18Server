@@ -32,30 +32,55 @@
 * *%UP FOR DISCUSSION* [Monsters in the closet](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet) (see monsters that keep you your hard earned sleep)
 * *%UP FOR DISCUSSION* [Inventory sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting) (does what it says)
 * *%UP FOR DISCUSSION* [Better signs and frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames) (does what it says)
-* *%NOT WORKING*, won't be implemented [Playtime tracker](https://github.com/SpaceClouds42/PlaytimeTracker) (does what it says)
-* *%NOT WORKING*, won't be implemented [Fabric Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) (needed for PlaytimeTracker)
 ---
 ## Client side implemented:
-* Fabric
-* Fabric API
-* [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) (dependency)
+### Using fabric as the underlying modding toolchain
+* [Fabric](https://fabricmc.net/)
+* [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+### Mods that actually changes gameplay/items
 * [Modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (mod menu, access settings for various installed mods)
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
-* [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) (dynamic light)
-* [Irisshaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) (shader and performance
-* [Not enough animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) (animations)
-  *  [Transliterationlib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib) (compatability layer for NOA)
 * [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (doors, trapdoors, etc. get coupled and can be opened by one click)
 * [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
-* [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) (show player skin heads shown in chat)
-  * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) (dependency for Chat Heads)
-* [Nearly Sighted](https://www.curseforge.com/minecraft/mc-mods/near-sightedly) (match view distance of PC configuration to server)
-* [Eating animation fabric](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric) (more/better eating animations)
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
-* *NOT CONFIRMED WORKING YET* [skins layers 3d](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (3D skins)
-* [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (Connected textures fix)
-* [Enhanced block entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) (Performance optimization for chests, beds, etc.)
+* [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) (show all items and recepies in inventory screen)
+### GUI and HUD
+* ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) (better GUI with custom options)
+* [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) (better Advancement Info GUI)
+* [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) (improved HUD when riding any mount)
+* [Don't Clear Chat History](https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history) (doesn't clear chat history when leaving a server)
+### Performance
+* [Irisshaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) (shader and performance
+* [Nearly Sighted](https://www.curseforge.com/minecraft/mc-mods/near-sightedly) (match view distance of PC configuration to server)
 * [FPS reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (lowers FPS and sound when Minecraft is minimized or you're afk)
+* [Enhanced block entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) (performance optimization for chests, beds, etc.)
+* [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) (bed performance increase)
+* [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) (leave performance increase)
+* [EntityCulling](https://github.com/tr7zw/EntityCulling) (skip renderings tiles/entities that aren't visible)
+* [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) (reduce memory usage)
+* [Hydrogen Fabric](https://github.com/CaffeineMC/hydrogen-fabric) (reduce memory usage)
+* [Sodium Fabric](https://github.com/CaffeineMC/sodium-fabric) (optimization)
+* [Indium](https://modrinth.com/mod/indium) (sodium addon for rendering optimization)
+### Textures, animations, skins, ...
+* [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) (dynamic light)
+* [Eating animation fabric](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric) (more/better eating animations)
+* [Skins layers 3d](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (3D skins, you need to have a skin with two layers for this to work)
+* [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) (show player skin heads shown in chat)
+* [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (connected textures fix)
+* [Not enough animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) (animations)
+* [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) (MCPachter/Optifine animated textures in fabric)
+* [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) (Optifine Capes in fabric)
+* [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) (MCPatcher/Optifine Custom Item Textures in fabric)
+* *PROBLEMATIC RIGHT NOW* [Colormatic](https://github.com/kvverti/colormatic) (MCPatcher custom colors in fabric)
+* [Custom Entity Models (CEM)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) (Optifines custom entity models in fabric)
+* [Item Model Fix (Fabric)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) (fix transparent lines in item models)
+### Dependencies
+* [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
+* [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+* [Transliterationlib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
+* [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
+* [Completeconfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)
+* [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 ---
 # Up for discussion:
 * [Multiworld fabric](https://www.curseforge.com/minecraft/mc-mods/multiworld-fabric) (create and teleport between multiple worlds, might be useful for a farmworld or something similar)
@@ -90,3 +115,7 @@
 	* [Biome Locator](https://www.curseforge.com/minecraft/mc-mods/biome-locator) (compass for locating biomes)
 		* [FlytreLib](https://www.curseforge.com/minecraft/mc-mods/lib) (dependency for Biome locator)
 	* [Natures compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)  (does what it says)
+---
+# Problematic mods (serverside), not implemented
+* [Playtime tracker](https://github.com/SpaceClouds42/PlaytimeTracker) (does what it says)
+* [Fabric Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
