@@ -38,7 +38,6 @@
 * [Fabric](https://fabricmc.net/)
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 ### Mods that actually changes gameplay/items
-* [Modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (mod menu, access settings for various installed mods)
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
 * [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (doors, trapdoors, etc. get coupled and can be opened by one click)
 * [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
@@ -47,6 +46,7 @@
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (minimap)
 * [Xearo's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (worldmap)
 ### GUI, HUD and interactions
+* [Modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (mod menu, access settings for various installed mods)
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) (better GUI with custom options)
 * [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) (better Advancement Info GUI)
 * [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) (improved HUD when riding any mount)
