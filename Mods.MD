@@ -3,7 +3,7 @@
 ### Plugins
 * [Cardboard](https://modrinth.com/mod/cardboard)(Bukkit/Spigot/Paper support for fabric)
 * See [Plugins](Plugins.MD) for more information on used plugins
-### Optimization:
+### Optimization
 * [A number of optimization mods from this comprehensive list](https://gist.github.com/Obydux/55b967f5dcc00633fe895e5a473363d5)
 * [Servercore](https://modrinth.com/mod/servercore)
 ### Voice Chat
