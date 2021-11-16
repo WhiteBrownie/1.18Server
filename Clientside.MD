@@ -1,9 +1,9 @@
 # To get up and running clientside
 If you run into problems just shoot me a dm on discord: White Brownie#1830
-1. In order to play Minecraft on 1.18 you need Java Version 16, you can download it [here](https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html) (what you want is the `Windows x64 Installer` of the `Java SE Development Kit 16.X.X`) or directly from [DeepWolfX](https://drive.google.com/file/d/1-fm_tPKuRIn0JHOpm4nZ10Ti0tiH06Aq/view)
+1. In order to play Minecraft on 1.18 you need Java Version 16, you can download it from directly from [DeepWolfX](https://drive.google.com/file/d/1-fm_tPKuRIn0JHOpm4nZ10Ti0tiH06Aq/view)'s GoogleDrive or from the official website [here](https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html) (what you want is the `Windows x64 Installer` of the `Java SE Development Kit 16.X.X`) (you will need an Oracle account fro that tho)
 2. Go ahead and download [MultiMC](https://multimc.org/#Download)
 3. Extract MultiMC into a location of your choosing, it will stay there, no installation required
-4. Download the MultiMC instance you want/need from [here](https://1drv.ms/u/s!AnRpVm46qqDNjdUy9MNKb798AQLBOg?e=OeDgn7)
+4. Download the newest version of the MultiMC instance from [here](https://1drv.ms/u/s!AnRpVm46qqDNjdUy9MNKb798AQLBOg?e=OeDgn7)
 5. Extract the .7z file so that you are left with a .zip file (use the provided password)
 6. Open up MultiMC (locate the MultiMC.exe inside of the MultiMC folder you extraced and double click it; in top right corner click on `Profiles` and then on `Manage Accounts` ![](https://i.imgur.com/eQQnwh7.png)
 7. In the new `Settings` window that opened, add you Minecraft Account via Microsoft or Mojang (see the right side) ![](https://i.imgur.com/g4Lb2hE.png) ![](https://i.imgur.com/hD9Xxbk.png)
