@@ -1,7 +1,7 @@
 # Current state (1.17.1)
 ## Server side implemented:
 ### Plugins
-* [Cardboard](https://modrinth.com/mod/cardboard)(Bukkit/Spigot/Paper support for fabric)
+* **this is making problems right now** [Cardboard](https://modrinth.com/mod/cardboard) (Bukkit/Spigot/Paper support for fabric)
 * See [Plugins](Plugins.MD) for more information on used plugins
 ### Optimization
 * [A number of optimization mods from this comprehensive list](https://gist.github.com/Obydux/55b967f5dcc00633fe895e5a473363d5)
@@ -42,7 +42,7 @@
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 ### Mods that actually changes gameplay/items
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
-* **not implemented for now because it crashes the server** [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (doors, trapdoors, etc. get coupled and can be opened by one click)
+* [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (doors, trapdoors, etc. get coupled and can be opened by one click)
 * [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 * [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) (show all items and recepies in inventory screen)
