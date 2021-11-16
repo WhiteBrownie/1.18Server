@@ -42,7 +42,7 @@
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 ### Mods that actually changes gameplay/items
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
-* [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (doors, trapdoors, etc. get coupled and can be opened by one click)
+* **not implemented for now because it crashes the server** [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (doors, trapdoors, etc. get coupled and can be opened by one click)
 * [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 * [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) (show all items and recepies in inventory screen)
