@@ -102,7 +102,7 @@
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 ---
 # Up for discussion:
-* [Multiworld fabric](https://www.curseforge.com/minecraft/mc-mods/multiworld-fabric) (create and teleport between multiple worlds, might be useful for a farmworld or something similar)
+* [Interdimensional](https://quiltservertools.github.io/Interdimensional/) (Similar to bukkit multiverse, no support for worlds, only for dimensions)
 * Either **one**:
 	* [Right click harvest](https://modrinth.com/mod/rch) (does what it says)
 	* [Replanting crops fabric](https://www.curseforge.com/minecraft/mc-mods/replanting-crops-fabric) (does what it says)
