@@ -55,13 +55,13 @@
 	* [Natures compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)  (does what it says)
 * [Horse Stonks](https://www.curseforge.com/minecraft/mc-mods/horse-stonks) (prevents animals from getting worse stats than their parents when breeding)
 * [Egg of capitalism](https://modrinth.com/mod/egg-of-capitalism) (every player that helped to kill the Ender Dragon for the first time gets an egg)
-* VanillaTweaks ![image](https://i.imgur.com/V1hbJfw.png)
+* VanillaTweaks (fast leave decay is not needed any more) ![image](https://i.imgur.com/V1hbJfw.png) 
+* [Trees do not float](https://www.curseforge.com/minecraft/mc-mods/trees-do-not-float) (timber and tree optimization)
 ### potentially game-changing
 * [Repurposed structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (does what it says) [Deepwolf will have to modify this one]
 * [Universal Graves](https://modrinth.com/mod/universal-graves)
 # stuff to look at
 * Elytra!
-* Timber
 * anti mob block grief
 
 [page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc4)
