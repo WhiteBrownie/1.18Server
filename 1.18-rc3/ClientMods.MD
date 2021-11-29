@@ -1,2 +1,2 @@
 # Clientside Modlist
-[page up](/)
+[page up](\)
