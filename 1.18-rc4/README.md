@@ -3,4 +3,3 @@
 * [Player installation guide](Installation.MD)
 * [Mod List Serverside](ServerMods.MD)
 * [Mod List Clientside](ClientMods.MD)
-* [List for to be discussed mods](TBDiscussed.MD)
