@@ -16,8 +16,8 @@
 ## (Potentially) gameplay-changing
 7. [Monsters in the closet](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet) (see monsters that keep you your hard earned sleep)
 8. Either **one**:
-	    1. [Suitably stackable stews](https://www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew) (does what it says)
-	    2. [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, stews ...)
+	1. [Suitably stackable stews](https://www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew) (does what it says)
+	2. [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, stews ...)
 9. [Interdimensional](https://quiltservertools.github.io/Interdimensional/) (Similar to bukkit multiverse, no support for worlds, only for dimensions)
 10. Either **one**:
 	1. [Right click harvest](https://modrinth.com/mod/rch) (does what it says)
