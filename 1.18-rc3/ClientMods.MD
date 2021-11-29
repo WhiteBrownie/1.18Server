@@ -18,7 +18,6 @@
 * [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) (makes sodium pages scrollable)
 * [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) (Optifine eye candy options for sodium)
 
-
 ### Textures, animations, skins, ...
 * [Not enough animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) (animations)
 * [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) (adds zoom ability)
