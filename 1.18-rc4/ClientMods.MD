@@ -78,8 +78,4 @@
 * [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
 * [Completeconfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)
 
-
-
-
-
-[page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc3)
+[page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc4)
