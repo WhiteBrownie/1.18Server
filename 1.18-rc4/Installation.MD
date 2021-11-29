@@ -1,3 +1,5 @@
+#Installation [Video](https://youtu.be/PRMqFgyMGOY)
+If you get an error when starting for the first time (like I did) just try to launch again // Falls es beim erten Starten Fehler gibt, so wie bei mir, einfach nochmals probieren.
 # To get up and running clientside (German version below)
 If you run into problems just shoot me a dm on Discord: White Brownie#1830
 1. In order to play Minecraft on 1.18 you need Java Version 17, you can download the installer [here](https://download.oracle.com/java/17/archive/jdk-17.0.1_windows-x64_bin.exe) directly or just get the files [here](https://jdk.java.net/17/) if you know what you are doing
@@ -14,8 +16,7 @@ If you run into problems just shoot me a dm on Discord: White Brownie#1830
 12. In MultiMC click on `Add Instance` in the top left corner ![image](https://i.imgur.com/wYS9ZtP.png)
 13. Click `Import from zip` and use the .zip file you downloaded in step 5. (if you don't provide a name for the instance yourself it will be set automatically to the name of the .zip)![image](https://i.imgur.com/vZC9dVd.png)
 14. Your MultiMC should look something like this if you followed all the steps correctly ![image](https://i.imgur.com/0G5s1q7.png)
-15. You're good to go, just double click on the instance in MultiMC to start up Minecraft
-
+15. You're good to go, just double click on the instance in MultiMC to start up Minecraft, f you get an error when starting for the first time (like I did) just try to launch again
 
 # Clientside Installation 
 Bei Problemen einfach direkte DM an mich auf Discord: White Brownie#1830
@@ -33,6 +34,6 @@ Bei Problemen einfach direkte DM an mich auf Discord: White Brownie#1830
 12. Klick in MultiMC auf `Add Instance` in the oberen linken Ecke ![image](https://i.imgur.com/wYS9ZtP.png)
 13. Klick auf `Import from zip` und benutz die .zip die du in Schritt 5 heruntergeladen hast (wenn du den Namen nicht manuell eingibst wird er nach dem Namen der .zip gesetzt)![image](https://i.imgur.com/vZC9dVd.png)
 14. Dein MultiMC sollte in etwa so aussehen: ![image](https://i.imgur.com/0G5s1q7.png)
-15. Jetzt einfach nur noch doppelklick auf die Instanz in MultiMC und los kanns gehen :)
+15. Jetzt einfach nur noch doppelklick auf die Instanz in MultiMC und los kanns gehen; falls es beim erten Starten Fehler gibt, so wie bei mir, einfach nochmals probieren.
 
 [page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc3)
