@@ -12,6 +12,9 @@
 * [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) (chunk pre-generation to reduce lag from movement)
 * [Spark](https://ci.lucko.me/job/spark/) (performance profiling of the server)
 ### GUI, HUD and interactions
+## Textures, animations, skins, ...
+* [Easy painter](https://github.com/aws404/easy-painter) (improved paintings)
+* [Better signs and frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames) (does what it says)
 ### Social
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
 ### QOL
@@ -39,7 +42,26 @@
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 ### QOL
 * [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
+* [Monsters in the closet](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet) (see monsters that keep you your hard earned sleep)
+* Either **one**:
+	* [Suitably stackable stews](https://www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew) (does what it says)
+	* [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, stews ...) [modify to not allow bed stacking]
+* Either **one**:
+	* [Right click harvest](https://modrinth.com/mod/rch) (does what it says)
+	* [Replanting crops fabric](https://www.curseforge.com/minecraft/mc-mods/replanting-crops-fabric) (does what it says)
+* Either **one**:
+    * [Biome Locator](https://www.curseforge.com/minecraft/mc-mods/biome-locator) (compass for locating biomes)
+		* [FlytreLib](https://www.curseforge.com/minecraft/mc-mods/lib) (dependency for Biome locator)
+	* [Natures compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)  (does what it says)
+* [Horse Stonks](https://www.curseforge.com/minecraft/mc-mods/horse-stonks) (prevents animals from getting worse stats than their parents when breeding)
+* [Egg of capitalism](https://modrinth.com/mod/egg-of-capitalism) (every player that helped to kill the Ender Dragon for the first time gets an egg)
+* VanillaTweaks ![image](https://i.imgur.com/V1hbJfw.png)
+### potentially game-changing
+* [Repurposed structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (does what it says) [Deepwolf will have to modify this one]
+* [Universal Graves](https://modrinth.com/mod/universal-graves)
+# stuff to look at
+* Elytra!
+* Timber
+* anti mob block grief
+
 [page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc3)
-
-
-

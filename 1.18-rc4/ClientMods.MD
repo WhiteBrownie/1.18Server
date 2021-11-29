@@ -50,7 +50,11 @@
 * [No Potion Offset (Fabric)](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset) (removes potion inventory offset)
 * [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) (show player skin heads shown in chat)
 * [NoFade](https://www.curseforge.com/minecraft/mc-mods/no-fade) (gets rid of the annoying Mojag Studios loading screen)
-
+* [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) (show all items and recepies in inventory screen)
+* [Xaero's Minimap (Fair-play Edition)](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) (minimap in fair-play edition)
+* [Xearo's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (worldmap)
+* [Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas) (craftable map with nice artstyle)
+* [Interdimensional map markers](https://www.curseforge.com/minecraft/mc-mods/interdimensional-map-markers) (make your overworld position on vanilla minecraft maps visible even when in other dimensions)
 ### Textures, animations, skins, ...
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) (dynamic light)
 * [Eating animation fabric](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric) (more/better eating animations)
@@ -63,8 +67,12 @@
 * [Colormatic](https://github.com/kvverti/colormatic) (MCPatcher custom colors in fabric)
 * [Custom Entity Models (CEM)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) (Optifines custom entity models in fabric)
 * [Item Model Fix (Fabric)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) (fix transparent lines in item models)
-### Social
+* [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 ### QOL
+* Either **one**:
+    * [Biome Locator](https://www.curseforge.com/minecraft/mc-mods/biome-locator) (compass for locating biomes)
+		* [FlytreLib](https://www.curseforge.com/minecraft/mc-mods/lib) (dependency for Biome locator)
+	* [Natures compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)  (does what it says)
 ### Dependencies
 * [Transliterationlib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
 * [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
