@@ -64,4 +64,4 @@
 * Timber
 * anti mob block grief
 
-[page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc3)
+[page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc4)
