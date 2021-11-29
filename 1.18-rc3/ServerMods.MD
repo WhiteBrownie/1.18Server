@@ -19,7 +19,7 @@
 
 
 ### Social
-* [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
+* [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
 
 ### QOL
 
@@ -35,7 +35,7 @@
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) (reduce memory usage)
 * [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) (caches recepies to reduce lag)
 * [Krypton](https://github.com/astei/krypton/releases) (optimized networking and entity tracking)
-* [LazyDFU](https://modrinth.com/mod/lazydfu) (improves server-startup time)
+* [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) (initilization optimization)
 * [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files/all) (more carpet)
 * [Carpet TIS Addition](https://github.com/TISUnion/Carpet-TIS-Addition/releases) (even more carpet)
 ### Social
