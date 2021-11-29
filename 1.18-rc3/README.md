@@ -1,5 +1,5 @@
 # 1.18-rc3
-*caution, links automatically open in the same tab with GitHub, if you dont want that behaviour, you need to open it in a speperate tab manually*
+*caution, links automatically open in the same tab with GitHub, middle mouse click is your friend*
 * [Player installation guide](Installation.MD)
 * [Mod List Serverside](ServerMods.MD)
 * [Mod List Clientside](ClientMods.MD)
