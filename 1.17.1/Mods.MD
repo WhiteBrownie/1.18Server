@@ -96,7 +96,6 @@
 * [Transliterationlib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
 * [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
 * [Completeconfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)
-* [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 ---
 # Up for discussion:
 * [Interdimensional](https://quiltservertools.github.io/Interdimensional/) (Similar to bukkit multiverse, no support for worlds, only for dimensions)
