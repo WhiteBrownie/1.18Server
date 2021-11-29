@@ -11,23 +11,16 @@
 * [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet/files/all) (general improvements for performance, QOL, etc., - with options for gameplay changing stuff as well)
 * [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) (chunk pre-generation to reduce lag from movement)
 * [Spark](https://ci.lucko.me/job/spark/) (performance profiling of the server)
-
-
-
 ### GUI, HUD and interactions
-
-
-
 ### Social
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
-
 ### QOL
 
 
 ## To be implemented
 ### startup flags
 -Dterminal.jline=false -Dterminal.ansi=true -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs/ -Daikars.new.flags=true
-
+### Performance
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files/all) (holistic performance improvement mod)
 * [Starlight](https://github.com/spottedleaf/starlight/releases) (better light engine)
 * [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (assign dimensions different threads)
@@ -40,13 +33,12 @@
 * [Carpet TIS Addition](https://github.com/TISUnion/Carpet-TIS-Addition/releases) (even more carpet)
 ### Social
 * [DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric)
+### GUI, HUD and interactions
+* [Baila](https://github.com/TheEpicBlock/baila) ('What Am I Looking AT' UI)
+### Textures, animations, skins, ...
+* [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 ### QOL
-
-
-## To be discussed
-### Performance
-### Social
-### QOL
+* [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (advanced food information)
 [page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc3)
 
 
