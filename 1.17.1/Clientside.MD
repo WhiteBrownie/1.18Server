@@ -10,9 +10,10 @@ If you run into problems just shoot me a dm on discord: White Brownie#1830
 8. In the new `Settings` window that opened, add you Minecraft Account via Microsoft or Mojang (see the right side) ![image](https://i.imgur.com/g4Lb2hE.png) ![image](https://i.imgur.com/hD9Xxbk.png)
 9. Click on the Account you just added and press `Set Default` on the right side ![image](https://i.imgur.com/1wd86wH.png)
 10. You can close the Settings window
-11. Instead of steps 12.-13. you can also just drag and drop your instance file into MuliMC
+11. Instead of steps 12.-13. you can also just drag and drop the instance file into MuliMC
 12. In MultiMC click on `Add Instance` in the top left corner ![image](https://i.imgur.com/wYS9ZtP.png)
 13. Click `Import from zip` and use the .zip file you downloaded in step 5. (if you don't provide a name for the instance yourself it will be set automatically)![image](https://i.imgur.com/vZC9dVd.png)
 14. Your MultiMC should look something like this if you followed all the steps correctly ![image](https://i.imgur.com/0G5s1q7.png)
 15. You're good to go, just double click on the instance in MultiMC to start up Minecraft
 16. FYI: you can add a start-menu entry for Windows by pressing right-click and then "Add to start"
+
