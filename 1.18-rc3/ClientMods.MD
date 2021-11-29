@@ -1,2 +1,2 @@
 # Clientside Modlist
-[page up](1.18-rc3/)
+[page up](\1.18-rc3)
