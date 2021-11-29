@@ -1,6 +1,6 @@
 # To get up and running clientside (german version below)
 If you run into problems just shoot me a dm on Discord: White Brownie#1830
-1. In order to play Minecraft on 1.18 you need Java Version 16, you can download the installer [here](https://download.oracle.com/java/17/archive/jdk-17.0.1_windows-x64_bin.exe) directly or just get the files [here](https://jdk.java.net/17/) if you know what you are doing
+1. In order to play Minecraft on 1.18 you need Java Version 17, you can download the installer [here](https://download.oracle.com/java/17/archive/jdk-17.0.1_windows-x64_bin.exe) directly or just get the files [here](https://jdk.java.net/17/) if you know what you are doing
 2. Go ahead and download [MultiMC](https://multimc.org/#Download) ![image](https://i.imgur.com/XbypQmH.png)
 3. Extract MultiMC into a location of your choosing, it will stay there! ![](https://i.imgur.com/ZkjaXGR.png)
 4. Download the newest version of the MultiMC instance from [here](https://1drv.ms/f/s!AnRpVm46qqDNjdUyINmGchLVMbRdhw), use the provided password from discord to gain access. Don't unzip the file, just keep it as is
