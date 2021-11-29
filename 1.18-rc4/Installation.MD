@@ -36,4 +36,4 @@ Bei Problemen einfach direkte DM an mich auf Discord: White Brownie#1830
 14. Dein MultiMC sollte in etwa so aussehen: ![image](https://i.imgur.com/0G5s1q7.png)
 15. Jetzt einfach nur noch doppelklick auf die Instanz in MultiMC und los kanns gehen; falls es beim erten Starten Fehler gibt, so wie bei mir, einfach nochmals probieren.
 
-[page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc3)
+[page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc4)
