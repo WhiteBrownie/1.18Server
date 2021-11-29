@@ -11,7 +11,7 @@
 4. Either one or both: 
 	1. [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (minimap)
 		1. [Xearo's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (worldmap)
-       	4.2. [Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas) (craftable map with nice artstyle)
+       	2. [Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas) (craftable map with nice artstyle)
 5. [Interdimensional map markers](https://www.curseforge.com/minecraft/mc-mods/interdimensional-map-markers) (make your overworld position on vanilla minecraft maps visible even when in other dimensions)
 6. Vanilla Tweaks (timber, multiplayer sleep, ...)
 ## (Potentially) gameplay-changing
