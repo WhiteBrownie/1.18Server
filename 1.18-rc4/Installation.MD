@@ -1,4 +1,4 @@
-#Installation [Video](https://youtu.be/PRMqFgyMGOY)
+# Installation [Video](https://youtu.be/PRMqFgyMGOY)
 If you get an error when starting for the first time (like I did) just try to launch again // Falls es beim erten Starten Fehler gibt, so wie bei mir, einfach nochmals probieren.
 # To get up and running clientside (German version below)
 If you run into problems just shoot me a dm on Discord: White Brownie#1830
