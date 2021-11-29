@@ -55,7 +55,7 @@
 	* [Natures compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)  (does what it says)
 * [Horse Stonks](https://www.curseforge.com/minecraft/mc-mods/horse-stonks) (prevents animals from getting worse stats than their parents when breeding)
 * [Egg of capitalism](https://modrinth.com/mod/egg-of-capitalism) (every player that helped to kill the Ender Dragon for the first time gets an egg)
-* VanillaTweaks (fast leave decay is not needed any more) ![image](https://i.imgur.com/V1hbJfw.png) 
+* VanillaTweaks (fast leaf decay is not needed any more) ![image](https://i.imgur.com/V1hbJfw.png) 
 * [Trees do not float](https://www.curseforge.com/minecraft/mc-mods/trees-do-not-float) (timber and tree optimization)
 ### potentially game-changing
 * [Repurposed structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (does what it says) [Deepwolf will have to modify this one]
