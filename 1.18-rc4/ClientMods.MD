@@ -31,7 +31,7 @@
 
 ## To be implemented
 ### Performance
-* [Irisshaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) (shader and performance
+* [Irisshaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) (shader and performance)
 * [Nearly Sighted](https://www.curseforge.com/minecraft/mc-mods/near-sightedly) (match view distance of PC configuration to server)
 * [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) (bed performance increase)
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) (reduce memory usage)
