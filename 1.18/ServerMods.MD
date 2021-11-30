@@ -19,7 +19,7 @@
 ### Social
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
 ### QOL
-* [VanillaTweaks](https://vanillatweaks.net/share#rUoss6) (fast leaf decay might not be needed with timber mod) 
+* [VanillaTweaks](https://vanillatweaks.net/share#rUoss6) **(fast leaf decay might not be needed with timber mod)**
   * AFK Display
   * Armore Statues
   * Cauldron Concrete
@@ -39,7 +39,6 @@
   * Villager Workstation Highlights
   * Wandering Trades
   * XP Management
-* [Universal Graves](https://modrinth.com/mod/universal-graves)
 ### world generation
 * [Repurposed structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric) 
 ### Dependencies
@@ -47,7 +46,8 @@
 
 ## Problem makers
 * [Hydrogen](https://github.com/jellysquid3/hydrogen-fabric/releases) (reduce memory usage)
-* [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, stews ...) [modify to not allow bed stacking]
+* [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, stews ...) **modify to not allow bed stacking**
 * [Tree harvester (Fabric)](https://www.curseforge.com/minecraft/mc-mods/tree-harvester-fabric) (timber mod) **AND/OR** [Collective (Fabric)](https://www.curseforge.com/minecraft/mc-mods/collective-fabric)
+* [Universal Graves](https://modrinth.com/mod/universal-graves)
 
 [page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18)
