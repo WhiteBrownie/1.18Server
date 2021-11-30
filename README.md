@@ -1,7 +1,9 @@
 # [Player installation guide](Installation.MD)
 [Video](Installation.MD#installation-video)
-English
-German
+
+[English](Installation.MD#installation-video#to-get-up-and-running-clientside-german-version-below)
+
+[German](Installation.MD#installation-video#clientside-installation-deutsch)
 # Mod status
 ## [1.18 mods and state](1.18-rc4)
 ## [1.18-rc4 mods and state](1.18-rc4)

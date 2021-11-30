@@ -18,7 +18,7 @@ If you run into problems just shoot me a dm on Discord: White Brownie#1830
 14. Your MultiMC should look something like this if you followed all the steps correctly ![image](https://i.imgur.com/0G5s1q7.png)
 15. You're good to go, just double click on the instance in MultiMC to start up Minecraft, f you get an error when starting for the first time (like I did) just try to launch again
 
-# Clientside Installation 
+# Clientside Installation (deutsch)
 Bei Problemen einfach direkte DM an mich auf Discord: White Brownie#1830
 1. Für Minecraft 1.18 wird Java 17 benötigt, die Installationsdatei dafür kannst du [hier](https://download.oracle.com/java/17/archive/jdk-17.0.1_windows-x64_bin.exe) direct runterladen oder einfach (wenn du weißt was du machst) die Dateien [hier](https://jdk.java.net/17/) runterladen
 2. Lade dir [MultiMC](https://multimc.org/#Download) herunter ![image](https://i.imgur.com/XbypQmH.png)
