@@ -1,7 +1,7 @@
 # [Player installation guide](Installation.MD)
 [Video](Installation.MD#installation-video)
 
-[English](Installation.MD#installation-video#to-get-up-and-running-clientside-german-version-below)
+[English](Installation.MD#installation-video#get-up-and-running-clientside-german-version-below)
 
 [German](Installation.MD#installation-video#clientside-installation-deutsch)
 # Mod status
