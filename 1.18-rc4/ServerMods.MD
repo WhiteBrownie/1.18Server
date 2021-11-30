@@ -61,7 +61,7 @@
 * [Repurposed structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric) (does what it says) [Deepwolf will have to modify this one]
 * [Universal Graves](https://modrinth.com/mod/universal-graves)
 # stuff to look at
-* Elytra!
-* anti mob block grief
+* Elytra! (might not be looked at afterall because of server performance reasons)
+* anti mob block grief: [Damage Incroporated](https://modrinth.com/mod/damage-incorporated) or [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
 
 [page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc4)
