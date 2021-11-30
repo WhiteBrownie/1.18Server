@@ -5,6 +5,6 @@
 
 [German](Installation.MD#installation-video#clientside-installation-deutsch)
 # Mod status
-## [1.18 mods and state](1.18-rc4)
+## [1.18 mods and state](1.18)
 ## [1.18-rc4 mods and state](1.18-rc4)
 ## [1.17.1 mods and state](1.17.1)
