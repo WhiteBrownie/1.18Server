@@ -63,5 +63,7 @@
 # stuff to look at
 * Elytra! (might not be looked at afterall because of server performance reasons)
 * anti mob block grief: [Damage Incroporated](https://modrinth.com/mod/damage-incorporated) or [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
-
+## Dependencies
+* [Cloth Config API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-config/)
+* [Collective (Fabric)](https://www.curseforge.com/minecraft/mc-mods/collective-fabric)
 [page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc4)
