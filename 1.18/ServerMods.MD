@@ -14,7 +14,7 @@
 * [Servercore](https://modrinth.com/mod/servercore) (performance options and optimizations for Minecraft servers)
 * [Spark](https://ci.lucko.me/job/spark/) (performance profiling of the server)
 ### GUI, HUD and interactions
-### Textures, animations, skins, visual block-additions ...
+### Textures, animations, skins, visual block-addition, ...
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 ### Social
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
