@@ -74,7 +74,6 @@
 	* [Natures compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)  (does what it says)
 ### Dependencies
 * [Transliterationlib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
-* [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
 * [Completeconfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)
 
 [page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc4)
