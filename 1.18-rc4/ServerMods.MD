@@ -55,8 +55,8 @@
 	* [Natures compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)  (does what it says)
 * [Horse Stonks](https://www.curseforge.com/minecraft/mc-mods/horse-stonks) (prevents animals from getting worse stats than their parents when breeding)
 * [Egg of capitalism](https://modrinth.com/mod/egg-of-capitalism) (every player that helped to kill the Ender Dragon for the first time gets an egg)
-* [VanillaTweaks](https://vanillatweaks.net/share#rUoss6) (Fast leaf decay might not be needed with timber mod) 
-* [Trees do not float](https://www.curseforge.com/minecraft/mc-mods/trees-do-not-float) (timber and tree optimization)
+* [VanillaTweaks](https://vanillatweaks.net/share#rUoss6) (fast leaf decay might not be needed with timber mod) 
+* [Tree harvester (Fabric)](https://www.curseforge.com/minecraft/mc-mods/tree-harvester-fabric) (timber mdo)
 ### potentially game-changing
 * [Repurposed structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric) (does what it says) [Deepwolf will have to modify this one]
 * [Universal Graves](https://modrinth.com/mod/universal-graves)
