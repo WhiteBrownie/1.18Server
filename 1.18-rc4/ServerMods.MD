@@ -58,7 +58,7 @@
 * VanillaTweaks (fast leaf decay is not needed any more) ![image](https://i.imgur.com/V1hbJfw.png) 
 * [Trees do not float](https://www.curseforge.com/minecraft/mc-mods/trees-do-not-float) (timber and tree optimization)
 ### potentially game-changing
-* [Repurposed structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (does what it says) [Deepwolf will have to modify this one]
+* [Repurposed structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric) (does what it says) [Deepwolf will have to modify this one]
 * [Universal Graves](https://modrinth.com/mod/universal-graves)
 # stuff to look at
 * Elytra!

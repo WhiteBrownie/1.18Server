@@ -59,7 +59,6 @@
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) (dynamic light)
 * [Eating animation fabric](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric) (more/better eating animations)
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (connected textures fix)
-* [Not enough animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) (animations)
 * [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) (MCPachter/Optifine animated textures in fabric)
 * [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) (Optifine Capes in fabric)
 * [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) (MCPatcher/Optifine Custom Item Textures in fabric)
