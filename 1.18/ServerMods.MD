@@ -44,10 +44,11 @@
 ### Dependencies
 * [Cloth Config API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-config/)
 
-## Problem makers
-* [Hydrogen](https://github.com/jellysquid3/hydrogen-fabric/releases) (reduce memory usage)
-* [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, stews ...) **modify to not allow bed stacking**
-* [Tree harvester (Fabric)](https://www.curseforge.com/minecraft/mc-mods/tree-harvester-fabric) (timber mod) **AND/OR** [Collective (Fabric)](https://www.curseforge.com/minecraft/mc-mods/collective-fabric)
-* [Universal Graves](https://modrinth.com/mod/universal-graves)
+## Problem makers (this might all be because the JAVA compatability version of the server is set to 16 instead of 17)
+* [Hydrogen](https://github.com/jellysquid3/hydrogen-fabric/releases) (reduce memory usage) Version: hydrogen-fabric-mc1.18-0.3-SNAPSHOT.jar
+* [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, stews ...) **modify to not allow bed stacking** Version: lenientstacksize-1.2.0.jar
+* [Tree harvester (Fabric)](https://www.curseforge.com/minecraft/mc-mods/tree-harvester-fabric) (timber mod) Version: treeharvester-fabric_1.18.x-4.1.jar **AND/OR** [Collective (Fabric)](https://www.curseforge.com/minecraft/mc-mods/collective-fabric) Version: collective-fabric-1.18.x-3.9.jar
+* [Universal Graves](https://modrinth.com/mod/universal-graves) Version: graves-1.2.1+1.18.jar
+* [Replanting crops fabric](https://www.curseforge.com/minecraft/mc-mods/replanting-crops-fabric) (does what it says) Version: replantingcrops-fabric_1.18.x-2.5.jar
 
 [page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18)

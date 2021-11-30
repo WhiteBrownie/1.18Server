@@ -9,6 +9,7 @@
 * [FPS reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (lowers FPS and sound when Minecraft is minimized or you're afk)
 * [Hydrogen Fabric](https://github.com/CaffeineMC/hydrogen-fabric) (reduce memory usage)
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) (initilization optimization)
+* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files/all) (holistic performance improvement mod)
 * [Sodium Fabric](https://github.com/CaffeineMC/sodium-fabric) (optimization and video settings rework)
 ### GUI, HUD and interactions
 * [Modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (mod menu, access settings for various installed mods)
