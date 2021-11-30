@@ -1,4 +1,7 @@
 # [Player installation guide](Installation.MD)
+[Video](Installation.MD#installation-video)
+English
+German
 # Mod status
 ## [1.18 mods and state](1.18-rc4)
 ## [1.18-rc4 mods and state](1.18-rc4)
