@@ -12,6 +12,7 @@
 * [Irisshaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) (shader and performance)
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) (initilization optimization)
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files/all) (holistic performance improvement mod)
+* [Not Enough Crashes (Fabric)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) (improves crashes:) )
 * [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) (makes sodium pages scrollable)
 * [Sodium Fabric](https://github.com/CaffeineMC/sodium-fabric) (optimization and video settings rework)
 * [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) (Optifine eye candy options for sodium)
