@@ -8,12 +8,18 @@
 * [EntityCulling](https://github.com/tr7zw/EntityCulling) (skip renderings tiles/entities that aren't visible)
 * [FPS reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (lowers FPS and sound when Minecraft is minimized or you're afk)
 * [Hydrogen Fabric](https://github.com/CaffeineMC/hydrogen-fabric) (reduce memory usage)
+* [Irisshaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) (shader and performance)
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) (initilization optimization)
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files/all) (holistic performance improvement mod)
+* [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) (makes sodium pages scrollable)
 * [Sodium Fabric](https://github.com/CaffeineMC/sodium-fabric) (optimization and video settings rework)
+* [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) (Optifine eye candy options for sodium)
 ### GUI, HUD and interactions
 * [Modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (mod menu, access settings for various installed mods)
 * [Mouse Wheelie (Fabric)](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) (mouse wheel actions, *inventory sorting*)
+* [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) (show all items and recepies in inventory screen)
+* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) (minimap in fair-play edition) (**WILL BE REPLACED BY THE FAIR-PLAY VERSION AS SOON AS POSSIBLE**)
+* [Xearo's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (worldmap)
 ### Textures, animations, skins, visual block-additions, ...
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 * [Not enough animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) (animations)
