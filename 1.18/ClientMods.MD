@@ -29,6 +29,7 @@
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) (minimap in fair-play edition) (**WILL BE REPLACED BY THE FAIR-PLAY VERSION AS SOON AS POSSIBLE**)
 * [Xearo's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (worldmap)
 ### Textures, animations, skins, visual block-additions, ...
+* [Eating animation fabric](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric) (more/better eating animations)
 * [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) (Optifine Capes in fabric)
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) (dynamic light)
