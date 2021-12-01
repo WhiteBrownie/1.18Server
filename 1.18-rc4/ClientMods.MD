@@ -75,5 +75,6 @@
 ### Dependencies
 * [Transliterationlib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
 * [Completeconfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)
+* [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files)
 
 [page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18-rc4)

@@ -35,7 +35,8 @@
 * [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files/all) (more carpet)
 * [Carpet TIS Addition](https://github.com/TISUnion/Carpet-TIS-Addition/releases) (even more carpet)
 ### Social
-* [DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric)
+* [DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric) (Discord chat integration)
+* [Dynmap](https://github.com/webbukkit/dynmap) (Dynamic map, viewable from browser)
 ### GUI, HUD and interactions
 * [Baila](https://github.com/TheEpicBlock/baila) ('What Am I Looking AT' UI)
 ### Textures, animations, skins, ...
