@@ -9,6 +9,7 @@
 * [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files/all) (more carpet)
 * [Carpet TIS Addition](https://github.com/TISUnion/Carpet-TIS-Addition/releases) (even more carpet)
 * [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) (chunk pre-generation to reduce lag from movement)
+* [Hydrogen](https://github.com/jellysquid3/hydrogen-fabric/releases) (reduce memory usage)
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) (initilization optimization)
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files/all) (holistic performance improvement mod)
 * [Servercore](https://modrinth.com/mod/servercore) (performance options and optimizations for Minecraft servers)
@@ -19,6 +20,10 @@
 ### Social
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
 ### QOL
+* [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, stews ...) **modify to not allow bed stacking**
+* [Replanting crops fabric](https://www.curseforge.com/minecraft/mc-mods/replanting-crops-fabric) (right-click replantin)
+* [Tree harvester (Fabric)](https://www.curseforge.com/minecraft/mc-mods/tree-harvester-fabric) (timber mod)
+* [Universal Graves](https://modrinth.com/mod/universal-graves) (graves mod)
 * [VanillaTweaks](https://vanillatweaks.net/share#rUoss6) **(fast leaf decay might not be needed with timber mod)**
   * AFK Display
   * Armore Statues
@@ -26,7 +31,7 @@
   * Count Mob Deaths
   * Custom Nether Portals
   * Double Shulker Shells
-  * Fast Leaf Decay
+  * Fast Leaf Decay [removed, not needed any more becazse of [Tree Harvester]((https://www.curseforge.com/minecraft/mc-mods/tree-harvester-fabric))]
   * Kill Empty Boats
   * More Mob Heads
   * Nether Portal Coords
@@ -43,12 +48,6 @@
 * [Repurposed structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric) 
 ### Dependencies
 * [Cloth Config API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-config/)
-
-## Problem makers (this might all be because the JAVA compatability version of the server is set to 16 instead of 17)
-* [Hydrogen](https://github.com/jellysquid3/hydrogen-fabric/releases) (reduce memory usage) Version: hydrogen-fabric-mc1.18-0.3-SNAPSHOT.jar
-* [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, stews ...) **modify to not allow bed stacking** Version: lenientstacksize-1.2.0.jar
-* [Tree harvester (Fabric)](https://www.curseforge.com/minecraft/mc-mods/tree-harvester-fabric) (timber mod) Version: treeharvester-fabric_1.18.x-4.1.jar **AND/OR** [Collective (Fabric)](https://www.curseforge.com/minecraft/mc-mods/collective-fabric) Version: collective-fabric-1.18.x-3.9.jar
-* [Universal Graves](https://modrinth.com/mod/universal-graves) Version: graves-1.2.1+1.18.jar
-* [Replanting crops fabric](https://www.curseforge.com/minecraft/mc-mods/replanting-crops-fabric) (does what it says) Version: replantingcrops-fabric_1.18.x-2.5.jar
+* [Collective (Fabric)](https://www.curseforge.com/minecraft/mc-mods/collective-fabric)
 
 [page up](https://github.com/WhiteBrownie/1.18Server/tree/main/1.18)
