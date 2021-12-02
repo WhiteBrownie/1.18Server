@@ -16,6 +16,7 @@
 * [Servercore](https://modrinth.com/mod/servercore) (performance options and optimizations for Minecraft servers)
 * [Spark](https://ci.lucko.me/job/spark/) (performance profiling of the server)
 ### GUI, HUD and interactions
+* [Dynmapp](https://github.com/webbukkit/dynmap) (adds a dynamic worldmap, viewable from a browser)
 ### Textures, animations, skins, visual block-addition, ...
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 ### Social
@@ -47,7 +48,7 @@
   * Villager Workstation Highlights
   * Wandering Trades
   * XP Management
-### world generation
+### World generation
 * [Repurposed structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
 ### Administration
 * [LuckyPerms](https://luckperms.net/) (Permissions mod)
