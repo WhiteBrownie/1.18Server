@@ -1,7 +1,7 @@
 # TOC
 1. [Installation Video](Installation.MD#installation-video)
 3. [Get up and running clientside](Installation.MD#get-up-and-running-clientside-german-version-below)
-4. [Clientside Installation (deutsch)](Installation.MD#clientside-installation)
+4. [Clientside Installation (deutsch)](Installation.MD#clientside-installation-deutsch)
 # Installation [Video](https://youtu.be/PRMqFgyMGOY)
 If you get an error when starting for the first time (like I did) just try to launch again // Falls es beim erten Starten Fehler gibt, so wie bei mir, einfach nochmals probieren.
 # Get up and running clientside (German version below)
