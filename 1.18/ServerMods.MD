@@ -25,7 +25,6 @@
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
 ### QOL
 * [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, stews ...) **modify to not allow bed stacking**
-* [Replanting crops fabric](https://www.curseforge.com/minecraft/mc-mods/replanting-crops-fabric) (right-click replantin)
 * [Tree harvester (Fabric)](https://www.curseforge.com/minecraft/mc-mods/tree-harvester-fabric) (timber mod)
 * [Universal Graves](https://modrinth.com/mod/universal-graves) (graves mod)
   * in the indium configuration file `mixin.chunk.palette=false` has to be set in order to avoid a crash and render bug (see [isssue](https://github.com/Patbox/UniversalGraves/issues/30))
@@ -62,3 +61,4 @@
 
 ## Deprecated
 * [DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric) (Discord chat integration)
+* [Replanting crops fabric](https://www.curseforge.com/minecraft/mc-mods/replanting-crops-fabric) (right-click replanting)
