@@ -1,7 +1,7 @@
 # Resource Packs
 * [Better Vanilla Building 1.18](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding)
 * [Classic 3D 16x 1.18](https://www.curseforge.com/minecraft/texture-packs/classic-3d)
-* [CoterieC raft Frontier 16x 1.18](https://www.curseforge.com/minecraft/texture-packs/coterie-craft-16x)
+* [Coterie Craft Frontier 16x 1.18](https://www.curseforge.com/minecraft/texture-packs/coterie-craft-16x)
 * [The Creator Pack 1.18](https://www.curseforge.com/minecraft/texture-packs/the-creatorpack)
 * [Faithful 1.18]()
 * [Lithos 32x 1.18](https://www.curseforge.com/minecraft/texture-packs/lithos-core-32x-1-6-1-11-complete)
