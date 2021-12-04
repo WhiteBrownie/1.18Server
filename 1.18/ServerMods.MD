@@ -13,9 +13,11 @@
 * [Krypton](https://github.com/astei/krypton/releases) (optimized networking and entity tracking)
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) (initilization optimization)
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files/all) (holistic performance improvement mod)
+* [Phosphor](https://github.com/CaffeineMC/phosphor-fabric) (light engine rework for better performance, esp. CPU)
 * [Servercore](https://modrinth.com/mod/servercore) (performance options and optimizations for Minecraft servers)
 * [Spark](https://ci.lucko.me/job/spark/) (performance profiling of the server)
 ### GUI, HUD and interactions
+* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (food information GUI with animations)
 * [Dynmapp](https://github.com/webbukkit/dynmap) (adds a dynamic worldmap, viewable from a browser)
 ### Textures, animations, skins, visual block-addition, ...
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
