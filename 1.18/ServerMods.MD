@@ -9,6 +9,8 @@
 * [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files/all) (more carpet)
 * [Carpet TIS Addition](https://github.com/TISUnion/Carpet-TIS-Addition/releases) (even more carpet)
 * [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) (chunk pre-generation to reduce lag from movement)
+* [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (assign dimensions different threads)
+* [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) (reduce memory usage)
 * [Hydrogen](https://github.com/jellysquid3/hydrogen-fabric/releases) (reduce memory usage)
 * [Krypton](https://github.com/astei/krypton/releases) (optimized networking and entity tracking)
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) (initilization optimization)
@@ -17,6 +19,7 @@
 * [Spark](https://ci.lucko.me/job/spark/) (performance profiling of the server)
 ### GUI, HUD and interactions
 ### Textures, animations, skins, visual block-addition, ...
+* [Better signs and frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames) (does what it says)
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 ### Social
 * [DisFabric](https://www.curseforge.com/minecraft/mc-mods/disfabric) (Discord chat integration)
