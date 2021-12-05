@@ -13,3 +13,6 @@
 ## [1.18 mods and state](1.18)
 ## [1.18-rc4 mods and state](1.18-rc4)
 ## [1.17.1 mods and state](1.17.1)
+---
+# Useful links
+1. Fabric mod list https://gist.github.com/John-Paul-R/6819feb2f2f794df06ae678878cddaf3#fabric-mod-list
