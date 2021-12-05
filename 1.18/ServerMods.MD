@@ -51,6 +51,9 @@
   * Villager Workstation Highlights
   * Wandering Trades
   * XP Management
+  * Back to Blocks
+  * Craftable Bundles (Rabbit Hide)
+  * Craftable Bundles (Leather)
 ### World generation
 * [Repurposed structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
 ### Administration
