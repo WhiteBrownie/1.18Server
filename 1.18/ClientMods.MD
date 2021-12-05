@@ -13,6 +13,7 @@
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) (initilization optimization)
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files/all) (holistic performance improvement mod)
 * [Not Enough Crashes (Fabric)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) (improves crashes:) )
+* [Phosphor](https://github.com/CaffeineMC/phosphor-fabric) (light engine rework for better performance, esp. CPU)
 * [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) (makes sodium pages scrollable)
 * [Sodium Fabric](https://github.com/CaffeineMC/sodium-fabric) (optimization and video settings rework)
 * [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) (Optifine eye candy options for sodium)
@@ -20,8 +21,10 @@
 ### GUI, HUD and interactions
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) (better GUI with custom options)
 * [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) (better Advancement Info GUI)
+* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (food information GUI with animations)
 * [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) (improved HUD when riding any mount)
 * [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) (show player skin heads shown in chat)
+* [LightOverlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) (NEI-like light overlay)
 * [Modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (mod menu, access settings for various installed mods)
 * [Mouse Wheelie (Fabric)](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) (mouse wheel actions, *inventory sorting*)
 * [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) (show all items and recepies in inventory screen)

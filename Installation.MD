@@ -1,7 +1,7 @@
 # TOC
 1. [Installation Video](Installation.MD#installation-video)
 3. [Get up and running clientside](Installation.MD#get-up-and-running-clientside-german-version-below)
-4. [Clientside Installation (deutsch)](Installation.MD#clientside-installation)
+4. [Clientside Installation (deutsch)](Installation.MD#clientside-installation-deutsch)
 # Installation [Video](https://youtu.be/PRMqFgyMGOY)
 If you get an error when starting for the first time (like I did) just try to launch again // Falls es beim erten Starten Fehler gibt, so wie bei mir, einfach nochmals probieren.
 # Get up and running clientside (German version below)
@@ -9,7 +9,7 @@ If you run into problems just shoot me a dm on Discord: White Brownie#1830
 1. In order to play Minecraft on 1.18 you need Java Version 17, you can download the installer [here](https://download.oracle.com/java/17/archive/jdk-17.0.1_windows-x64_bin.exe) directly or just get the files [here](https://jdk.java.net/17/) if you know what you are doing
 2. Go ahead and download [MultiMC](https://multimc.org/#Download) ![image](https://i.imgur.com/XbypQmH.png)
 3. Extract MultiMC into a location of your choosing, it will stay there! ![](https://i.imgur.com/ZkjaXGR.png)
-4. Download the newest version of the MultiMC instance from [here](https://1drv.ms/f/s!AnRpVm46qqDNjdUyINmGchLVMbRdhw), use the provided password from discord to gain access. Don't unzip the file, just keep it as is
+4. Download the newest version of the MultiMC instance (a .zip file **withouth** `_mods` at the end!) from [here](https://1drv.ms/f/s!AnRpVm46qqDNjdUyINmGchLVMbRdhw), use the provided password from discord to gain access. Don't unzip the file, just keep it as is
 5. Open up end setup MultiMC (locate the MultiMC.exe inside of the MultiMC folder) and follow the steps. FYI: you can add a start-menu entry for Windows by pressing right-click and then "Add to start"
 6. Be sure to change the Java version to the 17.0.1. you installed and to up the "Maximum memory allocation" to something like 4096 MB or 8192MB, depending on your installed RAM (4096 MB should be enough though) ![image](https://i.imgur.com/fSUFcIv.png) ![image](https://i.imgur.com/cSR3jFc.png)
 7. After the setup, click on `Profiles` and then on `Manage Accounts` in the top right corner ![image](https://i.imgur.com/eQQnwh7.png)
@@ -27,7 +27,7 @@ Bei Problemen einfach direkte DM an mich auf Discord: White Brownie#1830
 1. Für Minecraft 1.18 wird Java 17 benötigt, die Installationsdatei dafür kannst du [hier](https://download.oracle.com/java/17/archive/jdk-17.0.1_windows-x64_bin.exe) direct runterladen oder einfach (wenn du weißt was du machst) die Dateien [hier](https://jdk.java.net/17/) runterladen
 2. Lade dir [MultiMC](https://multimc.org/#Download) herunter ![image](https://i.imgur.com/XbypQmH.png)
 3. Entpacke MultiMC in einen Order deiner wahl (da wird es bleiben!)![](https://i.imgur.com/ZkjaXGR.png)
-4. Hol dir die neuste MultiMC Instanz von [hier](https://1drv.ms/f/s!AnRpVm46qqDNjdUyINmGchLVMbRdhw), benutz das Passwort vom Discord. Entpacke die Datei nicht, einfach so behalten erstmal
+4. Hol dir die neuste MultiMC Instanz (eine .zip Datei **ohne** `_mods` am Ende!) von [hier](https://1drv.ms/f/s!AnRpVm46qqDNjdUyINmGchLVMbRdhw), benutze das Passwort vom Discord. Entpacke die Datei nicht, einfach so behalten erstmal
 5. Öffne MultiMC und richte es ein (die MultiMC.exe befindet sich im Ordner in den du vorhin MultiMC extrahiert hast). FYI: du kannst unter Windwos einfach einen Startmenü-Eintrag für MultiMC hinzufügen indem du rechts klickst auf MultiMC.exe und dann auf "Zum Startmenü hinzufügen" klickst)
 6. Achte drauf die Java Version auf 17.0.1 anzupassen und die "Maximum memory allocation" auf irgendeinen Wert im groben Bereich von 4096 MB oder 8192 MB einzustellen, je nach dem wie viel RAM du hast (4096 MB sollten normalerweise genug sein) ![image](https://i.imgur.com/fSUFcIv.png) ![image](https://i.imgur.com/cSR3jFc.png)
 7. Nachdem das setup abgeschlossen ist klicke auf `Profiles` und dann `Manage Accounts` oben rechts in der Ecke ![image](https://i.imgur.com/eQQnwh7.png)
