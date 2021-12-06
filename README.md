@@ -16,3 +16,4 @@
 ---
 # Useful links
 1. Fabric mod list https://gist.github.com/John-Paul-R/6819feb2f2f794df06ae678878cddaf3#fabric-mod-list
+2. Fabric serverside mod list https://github.com/comp500/fabric-serverside-mods
