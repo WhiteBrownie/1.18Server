@@ -43,6 +43,7 @@
 * [Skins layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (3D skins, you need to have a skin with two layers for this to work)
 * [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) (adds zoom ability)
 ### Social
+* [Quick Shulker](https://www.curseforge.com/minecraft/mc-mods/quick-shulker) (better access to shulker box)
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
 ### QOL
 ### Dependencies
