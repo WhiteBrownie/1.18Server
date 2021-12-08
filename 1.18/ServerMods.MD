@@ -21,6 +21,7 @@
 ### GUI, HUD and interactions
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (food information GUI with animations)
 * [Dynmapp](https://github.com/webbukkit/dynmap) (adds a dynamic worldmap, viewable from a browser)
+* [MiniMOTD](https://www.curseforge.com/minecraft/mc-mods/minimotd-fabric) (better MOTD)
 ### Textures, animations, skins, visual block-addition, ...
 * [Better signs and frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames) (does what it says)
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
