@@ -3,3 +3,4 @@
 * [Mod List Serverside](ServerMods.MD)
 * [Mod List Clientside](ClientMods.MD)
 * [Resourcepacks and Shaderpacks](ResourcePacks_Shaderpacks.MD)
+* [Changelog](Changelog.MD)
