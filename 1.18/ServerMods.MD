@@ -30,6 +30,7 @@
 ### QOL
 * [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, stews ...) **modify to not allow bed stacking**
 * [Quick Shulker](https://www.curseforge.com/minecraft/mc-mods/quick-shulker) (better access to shulker box)
+* [Rightclickharvest Fabric](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest-fabric) (does what it says)
 * [Tree harvester (Fabric)](https://www.curseforge.com/minecraft/mc-mods/tree-harvester-fabric) (timber mod)
 * [Universal Graves](https://modrinth.com/mod/universal-graves) (graves mod)
   * in the indium configuration file `mixin.chunk.palette=false` has to be set in order to avoid a crash and render bug (see [isssue](https://github.com/Patbox/UniversalGraves/issues/30))
