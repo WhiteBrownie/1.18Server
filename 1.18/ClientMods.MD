@@ -29,9 +29,10 @@
 * [Modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (mod menu, access settings for various installed mods)
 * [Mouse Wheelie (Fabric)](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) (mouse wheel actions, *inventory sorting*)
 * [NoFade](https://www.curseforge.com/minecraft/mc-mods/no-fade) (gets rid of the annoying Mojag Studios loading screen)
+* [Quick Shulker](https://www.curseforge.com/minecraft/mc-mods/quick-shulker) (better access to shulker box)
 * [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) (show all items and recepies in inventory screen)
 * [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) (fixes large tooltips running off screen)
-* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) (minimap in fair-play edition) (**WILL BE REPLACED BY THE FAIR-PLAY VERSION AS SOON AS POSSIBLE**)
+* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (minimap)
 * [Xearo's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (worldmap)
 ### Textures, animations, skins, visual block-additions, ...
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (connected textures fix)
@@ -43,7 +44,6 @@
 * [Skins layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (3D skins, you need to have a skin with two layers for this to work)
 * [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) (adds zoom ability)
 ### Social
-* [Quick Shulker](https://www.curseforge.com/minecraft/mc-mods/quick-shulker) (better access to shulker box)
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
 ### QOL
 ### Dependencies
