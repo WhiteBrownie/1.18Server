@@ -32,7 +32,7 @@
 * [Quick Shulker](https://www.curseforge.com/minecraft/mc-mods/quick-shulker) (better access to shulker box)
 * [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) (show all items and recepies in inventory screen)
 * [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) (fixes large tooltips running off screen)
-* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition) (minimap in fair-play edition) (**WILL BE REPLACED BY THE FAIR-PLAY VERSION AS SOON AS POSSIBLE**)
+* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (minimap)
 * [Xearo's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (worldmap)
 ### Textures, animations, skins, visual block-additions, ...
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (connected textures fix)
