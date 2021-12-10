@@ -28,7 +28,7 @@
 ### Social
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
 ### QOL
-* [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
+* [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers) (creeper griefing configuration)
 * [Lenient stack size](https://www.curseforge.com/minecraft/mc-mods/lenient-stack-size) ([bigger] stacks for books, snowballs, buckets, stews ...) **modify to not allow bed stacking**
 * [Quick Shulker](https://www.curseforge.com/minecraft/mc-mods/quick-shulker) (better access to shulker box)
 * [Rightclickharvest Fabric](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest-fabric) (does what it says)
