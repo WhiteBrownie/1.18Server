@@ -63,6 +63,7 @@
 * [Repurposed structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
 ### Administration
 * [LuckyPerms](https://luckperms.net/) (Permissions mod)
+* [Progression](https://github.com/maxheyn/progression) (block nether and end portals/dimensions)
 ### Dependencies
 * [Cloth Config API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-config/)
 * [Collective (Fabric)](https://www.curseforge.com/minecraft/mc-mods/collective-fabric)
