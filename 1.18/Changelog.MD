@@ -3,7 +3,7 @@
 * Addition of Environmental Creepers
 * Addition of Progression
 * Update of numerous mods
-* Fabric update to 0.12.9
+* Fabric update to 0.12.11
 * ## Clientside 0.5.3
 * Addition of Continuity
 * Update of numerous mods,
