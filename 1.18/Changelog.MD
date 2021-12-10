@@ -1,10 +1,12 @@
 # Changelog
 ## Serverside 0.5.3
 * Addition of Environmental Creepers
+* Addition of Progression
 * Update of numerous mods
-## Clientside 0.5.3
+* Fabric update to 0.12.9
+* ## Clientside 0.5.3
 * Addition of Continuity
-* Update of numerous mods
+* Update of numerous mods,
 ---
 ## Serverside 0.5.2
 * Addition of miniMOTD
