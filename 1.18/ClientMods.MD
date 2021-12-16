@@ -24,6 +24,7 @@
 * [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) (better Advancement Info GUI)
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (food information GUI with animations)
 * [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) (improved HUD when riding any mount)
+* [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) (Makes the fullscreen option be borderless fullscreen)
 * [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) (show player skin heads shown in chat)
 * [LightOverlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) (NEI-like light overlay)
 * [Modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (mod menu, access settings for various installed mods)
@@ -41,6 +42,7 @@
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) (dynamic light)
 * [Not enough animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) (animations)
+* [Noel](https://www.curseforge.com/minecraft/mc-mods/noel-christmas-mod) (a christmas mod) [we are using a custom version, self-ported to 1.18]
 * [Skins layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (3D skins, you need to have a skin with two layers for this to work)
 * [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) (adds zoom ability)
 ### Social

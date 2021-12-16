@@ -25,6 +25,7 @@
 ### Textures, animations, skins, visual block-addition, ...
 * [Better signs and frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames) (does what it says)
 * [Glow banners](https://www.curseforge.com/minecraft/mc-mods/glow-banners) (make glowing banners and item frames with new glowing squid mob drop)
+* [Noel](https://www.curseforge.com/minecraft/mc-mods/noel-christmas-mod) (a christmas mod) [we are using a custom version, self-ported to 1.18]
 ### Social
 * [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (voice chat)
 ### QOL
@@ -37,6 +38,7 @@
   * in the indium configuration file `mixin.chunk.palette=false` has to be set in order to avoid a crash and render bug (see [isssue](https://github.com/Patbox/UniversalGraves/issues/30))
 * [VanillaTweaks](https://vanillatweaks.net/share#rUoss6) **(fast leaf decay might not be needed with timber mod)**
   * AFK Display
+  * Anti Enderman Grief
   * Armore Statues
   * Back
   * Cauldron Concrete
@@ -64,6 +66,7 @@
 ### Administration
 * [LuckyPerms](https://luckperms.net/) (Permissions mod)
 * [Progression](https://github.com/maxheyn/progression) (block nether and end portals/dimensions)
+* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) (does what Worldedit does)
 ### Dependencies
 * [Cloth Config API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-config/)
 * [Collective (Fabric)](https://www.curseforge.com/minecraft/mc-mods/collective-fabric)
