@@ -64,7 +64,9 @@
 ### World generation
 * [Repurposed structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
 ### Administration
-* [LuckyPerms](https://luckperms.net/) (Permissions mod)
+* [AntiXray](https://github.com/DrexHD/AntiXray) (does what it says)
+* [LuckyPerms](https://luckperms.net/) (permissions mod)
+* [Plan](https://github.com/plan-player-analytics/Plan) (player and server analytics webserver)
 * [Progression](https://github.com/maxheyn/progression) (block nether and end portals/dimensions)
 * [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) (does what Worldedit does)
 ### Dependencies

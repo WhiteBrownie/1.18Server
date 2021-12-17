@@ -1,4 +1,13 @@
 # Changelog
+## Serverside 0.5.4
+* Addition of WorldEdit
+* Addition of Noel
+* Addition of AntiXray
+* Addition of Plan
+## Clientside 0.5.4
+* Addition of Borderless Mining
+* Addition of Noel
+---
 ## Serverside 0.5.3
 * Addition of Environmental Creepers
 * Addition of Progression
