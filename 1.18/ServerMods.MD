@@ -20,6 +20,7 @@
 * [Spark](https://ci.lucko.me/job/spark/) (performance profiling of the server)
 ### GUI, HUD and interactions
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (food information GUI with animations)
+* [Baila](https://github.com/TheEpicBlock/baila) ('What Am I Looking AT' UI)
 * [Dynmapp](https://github.com/webbukkit/dynmap) (adds a dynamic worldmap, viewable from a browser)
 * [MiniMOTD](https://www.curseforge.com/minecraft/mc-mods/minimotd-fabric) (better MOTD)
 ### Textures, animations, skins, visual block-addition, ...
