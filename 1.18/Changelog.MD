@@ -1,4 +1,11 @@
 # Changelog
+## Serverside 0.5.5
+* Update of Dnymap
+* Addition of Baila
+## Clientside 0.5.5
+* Addition of More Chat History
+* Addition of Enhanced Block Entities
+---
 ## Serverside 0.5.4
 * Addition of WorldEdit
 * Addition of Noel
