@@ -66,6 +66,7 @@
 * [Repurposed structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
 ### Administration
 * [AntiXray](https://github.com/DrexHD/AntiXray) (does what it says)
+* [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater) (mod updater tool)
 * [LuckyPerms](https://luckperms.net/) (permissions mod)
 * [Plan](https://github.com/plan-player-analytics/Plan) (player and server analytics webserver)
 * [Progression](https://github.com/maxheyn/progression) (block nether and end portals/dimensions)

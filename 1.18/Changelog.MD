@@ -2,6 +2,7 @@
 ## Serverside 0.5.5
 * Update of Dnymap
 * Addition of Baila
+* Addition of Fabrilous Updater
 ## Clientside 0.5.5
 * Addition of More Chat History
 * Addition of Enhanced Block Entities
