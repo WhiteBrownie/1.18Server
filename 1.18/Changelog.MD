@@ -3,6 +3,7 @@
 * Update of Dnymap
 * Addition of Baila
 * Addition of Fabrilous Updater
+* Addition of Vanilla Tweaks Redstone Rotation Wrench
 ## Clientside 0.5.5
 * Addition of More Chat History
 * Addition of Enhanced Block Entities

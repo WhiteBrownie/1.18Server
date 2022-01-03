@@ -46,11 +46,12 @@
   * Count Mob Deaths
   * Custom Nether Portals
   * Double Shulker Shells
-  * Fast Leaf Decay [removed, not needed any more becazse of [Tree Harvester]((https://www.curseforge.com/minecraft/mc-mods/tree-harvester-fabric))]
+  * Fast Leaf Decay [removed, not needed any more because of [Tree Harvester]((https://www.curseforge.com/minecraft/mc-mods/tree-harvester-fabric))]
   * Kill Empty Boats
   * More Mob Heads
   * Nether Portal Coords
   * Player Head Drops
+  * Redstone Rotation Wrench
   * Silence Mobs
   * Track Raw Statistics
   * Track Statisctics
